@@ -1,5 +1,9 @@
-# 🚗 Project Hallucination
+<p align="center">
 
-A semi-realistic, configurable vehicle chassis and suspension system.
+# Project Hallucination
 
-**⚠️ Note:** This is a **reference implementation**—not yet tested for production use. It's ideal for learning, prototyping, or extending, but shouldn’t be used in live game environments without further testing.
+A semi‑realistic, configurable vehicle chassis and suspension system.
+
+**⚠️ Note:** This is a **reference implementation**—not yet tested for production use. It's ideal for learning, prototyping, or extending, but shouldn’t be used in live game environments without further testing.
+
+</p>
